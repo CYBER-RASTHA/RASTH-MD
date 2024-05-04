@@ -2,9 +2,9 @@ lobal.location="Lahore,Pakistan."
 
 
 @@ -20,7 +20,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
+global.github=process.env.GITHUB|| https://github.com/CYBER-RASTHA/RASTH-MD/edit/main/congfi.js#L5C81
+global.gurl  =process.env.GURL  ||94783735934
+global.website=process.env.GURL ||  94783735934
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ; // SET LOGO FOR IMAGE 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 
@@ -39,8 +39,8 @@ JosephFridlin 2 weeks ago
 50936467806
 
 @CYBER-RASTHA	Reply…
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "923184474176,923xxxxxxxx";
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "947183735934,94783735934";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,94783735934";
 
 @JosephFridlin
 JosephFridlin 2 weeks ago
@@ -50,8 +50,8 @@ JosephFridlin 2 weeks ago
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 @@ -58,11 +58,11 @@ global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923184474176,923xxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,94xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "94783735934,94xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
@@ -70,14 +70,14 @@ module.exports = {
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.1",
   VERSION : process.env.VERSION || "1.3.4",
-  caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "KING-RASTHA-MD , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙY CYBER RASTHA 』```", //*『ZEROX EAGLE』*\n youtube.com/@ZeroxEagleOfficial"),
 
-  author : process.env.PACK_AUTHER|| "Suhail-MD",
+  author : process.env.PACK_AUTHER|| "CYBER RASTHA MD,
   packname: process.env.PACK_NAME || "♥️",
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  botname : process.env.BOT_NAME  || "CYBER RASTHA ",
+  ownername:process.env.OWNER_NAME|| "KING RASTHA ",
 
 @@ -90,8 +90,7 @@ module.exports = {
   antilink_values:process.env.ANTILINK_VALUES|| "all",
