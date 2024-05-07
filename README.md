@@ -28,7 +28,6 @@ stars
 
 DEPLOYMENT METHODS
 
-https://github.com/CYBER-RASTHA/RASTH-MD/edit/main/README.md-WEB-main/projects/deployment.html
 
 
 LOGIN WITH PAIR CODE
