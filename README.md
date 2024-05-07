@@ -1,5 +1,5 @@
  
-g) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=WELCOME=TO)](https://git.io/typing-sv
+g) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=WELCOME=TO+CYBER+RASTHA+MD+ITHUB)](https://git.io/typing-sv
 
 
 
