@@ -1,9 +1,9 @@
-RABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+ccccyber rastha md javascript user  WhatsApp  Bot
 
 🔮 The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.
 
 
-prabath-md
+cyber rastha/rastha md
 
 
 
