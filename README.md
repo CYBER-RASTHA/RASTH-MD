@@ -40,7 +40,8 @@ Deploy to Koyeb
 
 Deploy on Railway
 
-Deploy on heroku
+Deploy on heroku  [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+
 
 
 FORK PRABATH-MD
