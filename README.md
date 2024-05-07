@@ -34,7 +34,7 @@ LOGIN WITH PAIR CODE
 https://pairing1-9450d1f488c5.herokuapp.com/pair
 
 LOGIN WITH QR CODE
-
+https://pairing1-9450d1f488c5.herokuapp.com/qr
 
   deploment methods 
 
