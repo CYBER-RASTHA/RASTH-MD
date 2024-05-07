@@ -39,6 +39,8 @@ LOGIN WITH QR CODE
 Deploy to Koyeb
 
 Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
+<br>
 
 Deploy on heroku  
 
