@@ -1,6 +1,6 @@
 cyber rastha md javascript user  WhatsApp  Bot
 
- <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+ <img src="https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18f524a696aa0976_0.1_f_lvw5wol80"  width="700px">
 
 🔮 The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.
 
