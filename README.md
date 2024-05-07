@@ -36,13 +36,7 @@ https://pairing1-9450d1f488c5.herokuapp.com/pair
 LOGIN WITH QR CODE
 
 
-Deploy to Koyeb
-
-Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
-<br>
-
-Deploy on heroku  
+  deploment methods 
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/CYBER-RASTHA-MD/RASTHA-MD&template=https://github.com/CYBER-RASTHA-MD/RASTHA-MD.git)
