@@ -28,6 +28,8 @@ stars
 
 DEPLOYMENT METHODS
 
+https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html
+
 
 LOGIN WITH PAIR CODE
 
