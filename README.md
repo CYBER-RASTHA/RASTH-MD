@@ -4,6 +4,10 @@ cyber rastha md javascript user  WhatsApp  Bot
 
         <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
 
+        <a href="https://github.com/VajiraTech">
+    <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+</a>
+
 🔮 The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.
 
 
